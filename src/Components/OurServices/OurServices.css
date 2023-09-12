@@ -1,0 +1,29 @@
+
+  .our-services-title {
+    text-align: center;
+    padding-top:30px;
+  }
+  
+  .our-services-text {
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+
+  .our-services-titles {
+    font-weight: lighter;
+    margin-left: 5%;
+    margin-top:5%;
+  }
+
+  .our-services-texts {
+    margin-left: 5%;
+    margin-bottom: 5%;
+  }
+
+  hr.solid {
+    border-top:3px solid #978f40;
+    max-width: 40px;
+    width:100%;
+    margin-left: 15px;
+  }
+

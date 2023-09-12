@@ -1,0 +1,19 @@
+#basic-navbar-nav {
+    font-weight: 600;
+    color: white;
+    border:none;
+  }
+
+#dropdown-container {
+    border:none;
+    background-color: black;
+}
+
+#dropdown-title {
+    color: white;
+}
+
+.bg-body-tertiary {
+    color: black;
+}
+

@@ -1,0 +1,11 @@
+#index-image {
+    max-width: 5%;
+    flex: 1;
+  }
+  
+#index-container {
+    display: flex;
+    align-items:flex-end;
+    justify-content:left;
+    border:none;
+  }

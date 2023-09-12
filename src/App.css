@@ -1,0 +1,29 @@
+.home-text-big {
+  background-color: black;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size:300%;
+  margin-right:20%;
+  margin-left: 3%;
+  padding-top:20%;
+}
+
+.home-text-small {
+  background-color: black;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 300;
+  font-size: 120%;
+  margin-right: 20%;
+  margin-left: 3%;
+}
+
+.home-background {
+  background-color: black;
+}
+
+.transform {
+  color:#bbb367
+}
+
