@@ -14,7 +14,7 @@ const DropdownIndex = () => {
     return (
 <Navbar expand="lg" className="bg-body-tertiary">
   <Container id='dropdown-container'>
-    <Navbar.Brand id='dropdown-title'href="#home">Novakyn</Navbar.Brand>
+    <Navbar.Brand id='dropdown-title'href="#home">Landing page</Navbar.Brand>
     <Navbar.Toggle id='navbar-style' aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav>
